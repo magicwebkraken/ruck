@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "friends";
+  src: url("/wp-content/uploads/useanyfont/1880Friends.woff2") format("woff2"),
+    url("/wp-content/uploads/useanyfont/1880Friends.woff") format("woff");
+  font-display: auto;
+}
+
+.friends {
+  font-family: "friends" !important;
+}
